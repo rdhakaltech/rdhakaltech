@@ -1,16 +1,24 @@
-## Hi there 👋
+# Ram Dhakal
 
-<!--
-**rdhakaltech/rdhakaltech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Security Engineer focused on Detection Engineering, SIEM optimization, Security Automation, and API-driven integrations.
 
-Here are some ideas to get you started:
+## Core Areas
+- Detection Engineering
+- Sumo Logic SIEM
+- SOAR Automation
+- SentinelOne EDR
+- Zscaler Monitoring
+- Azure / AWS Security Monitoring
+- Python API Integrations
+- Malware Validation Labs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- Security API Integration Framework
+- Detection Engineering Lab
+- SOAR Automation Playbooks
+- Malware Analysis Lab
+- TechProIQ LMS Security Architecture
+
+## Contact
+- LinkedIn: [(https://www.linkedin.com/in/ramdhakal/)]
+- Email: rdhakal@techproIQ.com
